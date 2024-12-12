@@ -2,7 +2,9 @@
 
 Como professora de **Ciência de Dados** na Ada Tech, uso esse github para compartilhar aulas com meus alunos, mais nada, rs.
 
-Trabalhei no Mercado Livre e os códigos desenvolvidos são de propriedade deles :) assim como das outras empresas que traabalhei.
+Trabalhei no Mercado Livre e os códigos desenvolvidos são de propriedade deles :) assim como das outras empresas que trabalhei.
+
+Na Secretaria da Educação do Estado de SP, sou responsável pela elaboração de plano de curso, plano de aula e conteúdo para alunos e professores. Que também não posso fazer a divulgação por aqui
 
 Precisa falar comigo?
 Meu email é: renata02@gmail.com
